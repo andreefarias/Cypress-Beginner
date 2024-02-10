@@ -1,6 +1,8 @@
 # Cypress - Beginner
 Creating simple test cases to practice knowledge with this Framework.
 
+Reference: [#cy-basico-v2](https://github.com/wlsf82/cypress-basico-v2)
+
 ## Prerequisites
 * __Git__ v2.43
 * __Node.js__ v21.6.1
